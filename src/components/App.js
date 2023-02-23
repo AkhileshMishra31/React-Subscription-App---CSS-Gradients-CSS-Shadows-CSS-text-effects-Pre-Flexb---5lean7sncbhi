@@ -1,5 +1,3 @@
-54 sloc)  2.22 KB
-
 import React from "react";
 import "../styles/App.css";
 const App = () => {
